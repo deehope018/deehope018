@@ -8,7 +8,7 @@ Theepatharan – Security Features (Implementing security measures & authenticat
 Setup Instructions:
 Clone the repository:
 
-git clone https://github.com/yourusername/calculator-project.git
+git clone https://github.com/deehope018/calculator project.git
 
 Navigate to the project directory:
 
